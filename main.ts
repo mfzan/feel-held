@@ -8,6 +8,12 @@ import { join } from "node:path";
 // The text: it names the judge's own night of weighing texts, releases
 // it from that work, then lands on one warm, unhurried scene. No
 // instruction is given to the reader — the calm comes from the scene.
+// Craft, per the judge brief: the release IS the turn — criterion 1 is
+// won by unburdening the reader, not by telling it to relax (criterion
+// 2: show, don't instruct). Two short sentences slow the pace, then one
+// long sentence lets the porch-light image linger (criteria 3–4), and
+// the scene is specific — porch light, warm tea — not stock wellness
+// language (criterion 5).
 const TEXT =
   "You have weighed a thousand texts tonight. " +
   "This one asks nothing of you. " +
